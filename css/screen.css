@@ -201,6 +201,13 @@ html {
 label {
   display: block;
 }
+/* FONT FAMILY */
+
+body {
+  font-family: 'Abel', sans-serif;
+  font-family: 'Exo', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+}
 
 /* ===== LAYOUT STYLES ====== */
 
