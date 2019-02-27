@@ -216,6 +216,14 @@ h1 {
   font-style: normal;
   font-weight: normal;
 }
+
+p {
+  font-size: 1em;
+  line-height: 1.5em;
+  font-style: normal;
+  font-weight: normal;
+}
+
 /* ===== MODULAR STYLES ===== */
 
 /* ===== STATE STYLES ======= */
