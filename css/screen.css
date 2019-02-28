@@ -232,6 +232,36 @@ ol {
   border-radius: 0.25em;
 }
 
+#input-submit {
+  width: 100%;
+  padding-top: 0.75em;
+  padding-bottom: 0.75em;
+}
+
+#email {
+  width: 100%;
+  border-radius: 0.25em;
+  border-style: hidden;
+  padding-top: 0.75em;
+  padding-bottom: 0.75em;
+}
+
+#input-submit {
+  padding-top: 0.75em;
+  padding-bottom: 0.75em;
+  width: 100%;
+}
+
+#submit {
+  background-color: white;
+  color: black;
+  width: 100%;
+  padding-top: 0.75em;
+  padding-bottom: 0.75em;
+  border-radius: 0.25em;
+  border-style: hidden;
+}
+
 /* ===== MODULAR STYLES ===== */
 /* === media queiries === */
 /* 400px Break Point 1: Extra Small Devices, Phones */
